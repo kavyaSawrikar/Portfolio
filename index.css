@@ -1,0 +1,11 @@
+.grid{
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap;
+}
+
+.item:hover{
+border: 15px solid rgb(216, 247, 164);
+position: space-evenly; 
+transform:translate(-5%,-5);
+}
